@@ -20,3 +20,20 @@ e -= 12;
 f -= 55;
 
 console.log("This is with -= " + d, e, f);
+
+// Now for *=
+
+let g = 5;
+let h = 12;
+let i = 4.6;
+
+g *= 24;
+h *= 55;
+i *= 3;
+
+console.log("This is with *= " + g, h, i);
+
+
+
+
+
