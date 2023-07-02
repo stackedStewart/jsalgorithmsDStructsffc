@@ -33,6 +33,17 @@ i *= 3;
 
 console.log("This is with *= " + g, h, i);
 
+// Now for /=
+
+let j = 48;
+let k = 108;
+let l = 22;
+
+j /= 12;
+k /= 4;
+l /= 11;
+
+console.log("This is with *= " + j, k, l);
 
 
 
