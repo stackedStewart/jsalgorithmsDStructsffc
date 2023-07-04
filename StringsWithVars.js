@@ -12,3 +12,10 @@ let myStr = "Learning to code is "
 myStr += someAdjective;
 
 console.log(myStr)
+
+// Getting the length of a string
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+lastNameLength = lastName.length;
+console.log(lastNameLength);
