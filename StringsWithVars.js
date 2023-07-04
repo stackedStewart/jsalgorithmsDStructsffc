@@ -19,3 +19,10 @@ const lastName = "Lovelace";
 
 lastNameLength = lastName.length;
 console.log(lastNameLength);
+
+// Bracket Notation
+let firstLetterOfLastName = "";
+const lastName2 = "Lovelace";
+
+firstLetterOfLastName = lastName2[0];
+console.log(firstLetterOfLastName);
