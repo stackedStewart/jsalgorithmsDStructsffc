@@ -9,3 +9,6 @@ console.log(thirdLetterOfLastName);
 
 const lastLetterOfLastName = lastName[lastName.length - 1];
 console.log(lastLetterOfLastName);
+
+const secondLastLetter = lastName[lastName.length - 2];
+console.log(secondLastLetter);
