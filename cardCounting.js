@@ -28,4 +28,6 @@ function cc(card) {
 }
 
 cc(2); cc(3); cc(7); cc(10); cc('K'); cc('A');
-console.log(cc(10))
+console.log(cc(4));
+
+//fixed 11/07/2023
